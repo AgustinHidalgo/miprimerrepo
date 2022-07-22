@@ -1,7 +1,14 @@
 body{
-    background-color: blue;
+    background-color: lightcoral;
 
 }
 p{
-    color: red
+    color: lawngreen
+}
+section{
+    background-color: lightpink;
+    margin: 30px;
+}
+footer{
+    background-color: lightslategray;
 }
